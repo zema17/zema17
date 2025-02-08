@@ -1,11 +1,8 @@
 ## Hey, I'm Mason, but feel free to call me Zero!  
 🔭I am improving myself for my work
 
-About me...
--My real name is Pham Vinh Phu.
--My birthday is 01/01/2002. But the day I was born is 26/12/2001.
--I come from Chau Thanh town, Dong Thap district, Vietnam. I have been living in HCMC since 10/2020.
--
+My real name is Pham Vinh Phu. My birthday is 01/01/2002. But the day I was born is 26/12/2001. I come from Chau Thanh town, Dong Thap district, Vietnam. I have been living in HCMC since 10/2020.
+
 
 
 
