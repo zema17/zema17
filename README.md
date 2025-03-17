@@ -9,6 +9,7 @@
 
 📒I learn about the field of telecommunication and Electronic in HCMUS (2020-2024). My major subject is Embedded System or IoT.
 
+My dream is to bring my parents peace of mind and let them enjoy the best that life has to offer, just as I have.
 
 
 
